@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553918178 source:c:\users\asus\desktop\btlktlt\gameduaxe\main.cpp
+	<windows.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<ctime>
+
